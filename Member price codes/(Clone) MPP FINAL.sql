@@ -1,7 +1,13 @@
 -- Databricks notebook source
+-- comment 
+
+-- COMMAND ----------
+
 select * from gold.material_master where material_id in ('690859',
 '647918'
-) ;
+) ; 
+
+-- comment
 
 -- COMMAND ----------
 
